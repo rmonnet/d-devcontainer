@@ -13,7 +13,8 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"webfreak.dlang-bundle"
+				"webfreak.dlang-bundle",
+				"formulahendry.code-runner"
 			]
 		}
 	},
